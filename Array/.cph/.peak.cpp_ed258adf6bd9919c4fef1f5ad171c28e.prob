@@ -1,0 +1,1 @@
+{"name":"Local: peak","url":"d:\\cpp\\Array\\peak.cpp","tests":[{"id":1649705711871,"input":"2\n1 13","output":"1"},{"id":1649705958363,"input":"7\n213 509 129 898 766 198 131","output":"1"},{"id":1649707148121,"input":"3 \n1 2 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\Array\\peak.cpp","group":"local","local":true}

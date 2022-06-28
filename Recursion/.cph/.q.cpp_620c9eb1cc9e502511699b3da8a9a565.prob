@@ -1,0 +1,1 @@
+{"name":"Local: q","url":"d:\\cpp\\Recursion\\q.cpp","tests":[{"id":1649429805135,"input":"3\n30 65\n42 42\n90 50","output":"FIRST\nANY\nSECOND"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\Recursion\\q.cpp","group":"local","local":true}

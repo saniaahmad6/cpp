@@ -1,0 +1,1 @@
+{"name":"Local: neg","url":"d:\\cpp\\Array\\neg.cpp","tests":[{"id":1649793089389,"input":"5\n-1 -2 3 -1 9","output":"3 9 -1 -2 -1"},{"id":1649834059980,"input":"7\n-2 9 -3 -1000 7 9 0","output":"9 7 9 0 -2 -3 -1000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\Array\\neg.cpp","group":"local","local":true}
